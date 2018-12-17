@@ -1,0 +1,3 @@
+1. Use loop to show when a graph contains Eulerian Trail only
+2. If each vertex has even degree, Eulerian Trail can be any path, and it was highlighted by all red vertices and edges
+3. If it contains two odd-degree vertices, find the largest odd degree as start(shown by blue), and create a temp value ‘next’, then for each iteration, ‘next’ points to the largest degree it can reach. Finally, end vertex is shown by green color.
